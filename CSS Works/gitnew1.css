@@ -1,0 +1,49 @@
+body{
+    align-items: center;
+    border:  black 1px;
+    height: 400px;
+    width: 300px;
+    position: relative;;
+}
+
+#a1{
+    border: solid black 1px;
+    height: 150px;
+    width: 258px;
+     margin-left: 15px;
+     background-color: rgb(232, 241, 241);
+     
+   
+}
+ button{
+     background-color: green;
+     height: 25px;
+     width: 170px;
+     text-decoration-color: white;
+    
+ }
+
+
+ #a2{
+     border: solid black 1px;
+     height: 20px;
+     width: 258px;
+     margin-left: 15px;
+     padding-top: 30px;
+     text-align: left;
+     margin-top: 10px;
+ }
+
+ #a3{
+     /* border: solid black 1px; */
+     height: 100px;
+     width: 300px;
+     margin-left:15px ;
+     
+ }
+
+ h6{
+     margin-right: 80px;
+     position: relative;
+     text-align: start;
+     he

@@ -1,0 +1,33 @@
+div{
+ border: black 1px;
+ height: 400px;
+ width: 300px;
+ background-color: white;
+ padding-left: 50px;
+}
+#a1{
+    border:rgb(15, 15, 15) 1px;
+    width: 10px;
+    height: 10px;
+    background-color: chartreuse;
+}
+button{
+    height: 20px;
+    width: 170px;
+    background-color: green;
+}
+
+#a2{
+    background-color: rgb(148, 156, 160);
+    width: 299px;
+    height: 150px;
+}
+#a4
+{
+ background-color: rgb(255, 253, 253);
+ height: 50px;
+ padding-bottom: 50px;
+ text-align: center;
+ text-align:start;
+
+}

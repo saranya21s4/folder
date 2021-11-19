@@ -1,0 +1,36 @@
+div{
+    border: solid black 2px;
+    height: 150px;
+    width: 100px;
+}
+
+.row{
+    border: solid black 2px;
+    height: 700px;
+    width: 700px;
+    background-color: chartreuse;
+    position: relative;
+    
+}
+
+.a1{
+    position: absolute;
+    background-color: chocolate;
+    left: 400px;
+    position: absolute;
+}
+.a2{
+    position: absolute;
+    background-color:blue;
+    left: 500px;
+}
+.a3{
+    position: absolute;
+    background-color:yellow;
+    left: 300px;
+}
+.a4{
+    position: absolute;
+    background-color:yellow;
+    left: 200px;
+}

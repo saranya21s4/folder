@@ -1,0 +1,17 @@
+.row {
+  width: 400px;
+  border: solid black 5px;
+  background-color: chartreuse;
+  height: 503px;
+  position: absolute;
+}
+
+.col {
+    position: relative;
+    top: 20px;
+  width: 200px;
+  height: 400px;
+  background-color: blue;
+  left: 100px;
+  border: solid black 5px;
+}

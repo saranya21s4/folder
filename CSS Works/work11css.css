@@ -1,0 +1,37 @@
+div {
+    border: solid black 1px;
+   
+    height: 100px;
+    width: 100px;
+}
+.row{
+    border: solid black 1px;
+    height: 300px;
+    width: 700px;
+    background-color: coral;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+}
+.a1{
+    background-color: cornflowerblue;
+    position: absolute;
+    left: 100px;
+}
+
+
+.a2{
+    background-color: rgb(45, 218, 111);
+    position: absolute;
+    left: 200px;
+}
+.a3{
+  background-color: rgb(185, 67, 156);
+    position: absolute;
+    left: 300px;  
+}
+.a4{
+   background-color: rgb(107, 197, 219);
+    position: absolute;
+    left: 400px;   
+}

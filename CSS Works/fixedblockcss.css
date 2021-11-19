@@ -1,0 +1,15 @@
+div {
+  border: solid #0fda0f 1px;
+  background-color: crimson;
+  width: 500px;
+  height: 500px;
+  position: fixed;
+  top: 300px;
+  left: 250px;
+}
+body {
+  background-color: darkgoldenrod;
+  height: 20px;
+
+
+}

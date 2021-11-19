@@ -1,0 +1,12 @@
+.id{
+    width: 500px;
+    height: 500px;
+    border: solid black 1px;
+    background-color: chocolate;
+}
+
+.col1{
+    
+    position: absolute;
+    background-color: cornflowerblue;
+}

@@ -1,0 +1,19 @@
+div{
+    border: solid black 2px;
+    width: 200px;
+    padding-left: 10px;
+
+}
+#a1{
+    margin-top: 100px;
+    padding-right: 50px;
+    color: blueviolet;
+}
+
+div p{
+    color: chartreuse;
+}
+
+p{
+    color:blue;
+}
